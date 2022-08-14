@@ -1,6 +1,6 @@
 - 👋 Hi, I’m moeez
-- 👀 I’m interested in Graphic Designing
-- 🌱 I’m currently learning Databases and Web Development
+- 👀 I’m interested in Full Stack Web Dev
+- 🌱 I’m currently learning JS & React
 - 📫 Email me @abdulmoezz321@gmail.com
 
 <!---
