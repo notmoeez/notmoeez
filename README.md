@@ -1,6 +1,6 @@
 - 👋 Hi, I’m moeez
-- 👀 I’m interested in Full Stack Web Dev
-- 🌱 I’m currently learning JS & React
+- 👀 I’m interested in Full Stack Web Dev and AI
+- 🌱 I’m currently working on MERN Stack
 - 📫 Email me @abdulmoezz321@gmail.com
 
 <!---
