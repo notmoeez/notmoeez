@@ -1,6 +1,6 @@
 - 👋 Hi, I’m moeez
-- 👀 I’m interested in Full Stack Web Dev and AI
-- 🌱 I’m currently working on MERN Stack
+- 👀 I am currently working as a Software Engineer
+- 🌱 My Tech Stack is ROR + React
 - 📫 Email me @abdulmoezz321@gmail.com
 
 <!---
